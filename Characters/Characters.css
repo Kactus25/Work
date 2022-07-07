@@ -1,0 +1,176 @@
+body{
+    background-color: rgb(0, 0, 0);
+    font-family: Comic Sans MS;
+    font-style: italic;
+    font-size: 30px;
+    color: white;
+}
+html{
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+.dec1{
+    margin-left: -6.7%;
+    margin-top: -8vh;
+    width: 20.7%;
+    height: 100%;
+    position: absolute;
+}
+.dec2{
+    margin-left: 85%;
+    margin-top: -8vh;
+    width: 20.7%;
+    height: 100%;
+    position: absolute;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+a:hover{
+    color: red;
+    transition: 0.3s;
+}
+.back{
+    margin-left: 15%;
+    font-size: 2vw;
+}
+.chose{
+    margin-left: 17.5%;
+    font-size: 2.3vw;
+}
+.row1_img{
+    display: flex;
+    justify-content: space-around;
+    margin-top: -1vh;
+    margin-left: 20vh;
+    margin-right: 20vh;
+}
+.row2_img{
+    display: flex;
+    justify-content: space-around;
+    margin-top: -1.5vh;
+    margin-left: 20vh;
+    margin-right: 20vh;
+}
+.row3_img{
+    display: flex;
+    justify-content: space-around;
+    margin-top: -1vh;
+    margin-left: 20vh;
+    margin-right: 20vh;
+}
+.row1_txt{
+    display: flex;
+    justify-content: space-around;
+    margin-top: -1.8%;
+}
+.Akira_txt{
+    margin-left: -52%;
+    position: absolute;
+}
+.Akira:hover{
+    transform: scale(1.1);
+    transition: 0.5s;
+}
+.Akira:not(hover){
+    transition: 0.5s;
+}
+.Riuji_txt{
+    margin-left: 0.3%;
+    position: absolute;
+}
+.Riuji:hover{
+    transform: scale(1.1);
+    transition: 0.5s;
+}
+.Riuji:not(hover){
+    transition: 0.5s;
+}
+.Morgana_txt{
+    margin-left: 54%;
+    position: relative;
+}  
+.Morgana:hover{
+    transform: scale(1.1);
+    transition: 0.5s;
+}
+.Morgana:not(hover){
+    transition: 0.5s;
+} 
+.row2_txt{
+    display: flex;
+    justify-content: space-around;
+    margin-top: -1.6%;
+}
+.Ann_txt{
+    margin-left: -52%;
+    position: absolute;
+}
+.Ann:hover{
+    transform: scale(1.1);
+    transition: 0.5s;
+}
+.Ann:not(hover){
+    transition: 0.5s;
+}
+.Yusuke_txt{
+    margin-left: 0.3%;
+    position: absolute;
+}
+.Yusuke:hover{
+    transform: scale(1.1);
+    transition: 0.5s;
+}
+.Yusuke:not(hover){
+    transition: 0.5s;
+}
+.Makoto_txt{
+    margin-left: 54%;
+    position: relative;
+}
+.Makoto:hover{
+    transform: scale(1.1);
+    transition: 0.5s;
+}
+.Makoto:not(hover){
+    transition: 0.5s;
+}
+.row3_txt{
+    display: flex;
+    justify-content: space-around;
+    margin-top: -1.65%;
+}
+.Futaba_txt{
+    margin-left: -52%;
+    position: absolute;
+}
+.Futaba:hover{
+    transform: scale(1.1);
+    transition: 0.5s;
+}
+.Futaba:not(hover){
+    transition: 0.5s;
+}
+.Haru_txt{
+    margin-left: 0.3%;
+    position: absolute;
+}
+.Haru:hover{
+    transform: scale(1.1);
+    transition: 0.5s;
+}
+.Haru:not(hover){
+    transition: 0.5s;
+}
+.Akechi_txt{
+    margin-left: 54%;
+    position: relative;
+}
+.Akechi:hover{
+    transform: scale(1.1);
+    transition: 0.5s;
+}
+.Akechi:not(hover){
+    transition: 0.5s;
+}

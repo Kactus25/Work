@@ -1,0 +1,170 @@
+body{
+    font-family: Comic Sans MS;
+    font-style: italic;
+    background-color: black;
+    color: white;
+}
+html{
+    overflow-x:hidden;
+}
+::-webkit-scrollbar {
+    width: 0px;
+}
+a{
+    color: white;
+    text-decoration: none;
+    font-size: 3vw;
+    margin-left: 3%;
+    margin-top: 0.4%;
+    position:absolute;
+}
+.back_bottom{
+    margin-top: -0.5%;
+    margin-left: 28%;
+}
+a:hover{
+    color: red;
+    transition: 0.3s;
+}
+.all{
+    margin-left: 8px;
+    margin-top: -47px;
+    width: 60%;
+    height: 20%;
+}
+.zag{
+    font-size: 4vw;
+    margin-left: 65%;
+    margin-top: -0.7%;
+}
+.all_txt{
+    text-align: center;
+    font-size: 1.2vw;
+    margin-left: 63%;
+    margin-top: -44%;
+}
+.all{
+    width: 60%;
+    height: 40%;
+}
+.flex{
+    display: flex;
+}
+.persona1_zag{
+    color: rgb(72, 2, 157);
+    font-size: 4vw;
+    margin-top: 3%;
+    margin-left: 41%;
+}
+.persona1_txt{
+    text-align: center;
+    margin-top: -2%;
+    margin-left: 1%;
+    font-size: 1.2vw;
+}
+.persona1_img{
+    border: solid rgb(72, 2, 157) 3px;
+    margin-top: -1%;
+    margin-left: 4%;
+    width: 52%;
+    height: 31vw;
+}
+.persona2_zag{
+    color: rgb(244, 1, 1);
+    font-size: 4vw;
+    margin-top: 0%;
+    margin-left: 41%;
+}
+.persona2_img{
+    border: rgb(244, 1, 1) solid 3px;
+    margin-left: 0.5%;
+    width: 50%;
+    height: 30%;
+}
+.persona2_img2{
+    width: 50%;
+    height: 30%;
+    margin-top: -30%;
+    margin-left: 0.5%;
+    border: rgb(244, 1, 1) solid 3px; 
+}
+.persona2_txt{
+    margin-top: -1%;
+    margin-left: 2%;
+    font-size: 1.2vw;
+    text-align: center;
+}
+.flex2{
+    display: flex;
+}
+.flex3{
+    display: flex;
+    align-content: space-between;
+}
+.persona3_zag{
+    font-size: 4vw;
+    margin-top: 0.3%;
+    margin-left: 41%;
+}
+.l{
+    margin-left: -1.2%;
+    border: 3px white solid;
+    height: 60vw;
+    width: 50vw;
+}
+.r{
+    margin-right:   -1%;
+    border: 3px white solid;
+    height: 60vw;
+    width: 50vw;
+}
+.persona3_txt{
+    font-size: 1.2vw;
+    text-align: center;
+    margin-top: -1.3%;
+    padding-left: 3%;
+    padding-right: 3%;
+    width: 180%;
+}
+.persona4_zag{
+    color: yellow;
+    font-size: 4vw;
+    margin-top: 0%;
+    margin-left: 41%;
+}
+.flex4{
+    display: flex;
+    flex-direction: column;
+    align-content: space-between;
+}
+.p4_img{
+    border: 2px solid yellow;
+    margin-left: 10%;
+    margin-top: -1%;
+    width: 80%;
+    height: 70vh;
+}
+.p4_txt{
+    width: 75%;
+    text-align: center;
+    margin-left: 12.5%;
+    margin-top: 1%;
+    font-size: 1.2vw;
+}
+.p4_img2{
+    border: 2px solid yellow;
+    margin-left: 10%;
+    margin-top: 0.5%;
+    width: 80%;
+    height: 60vh;
+}
+.table{
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 5%;
+    font-size: 2vw;
+    text-align: center;
+}
+.back_bottom{
+    margin-top: 0.2%;
+}

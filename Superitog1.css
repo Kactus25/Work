@@ -1,0 +1,52 @@
+body{
+    background-image: url(images1/main_fon.webp);
+    background-size: contain;
+    font-family: Comic Sans MS; 
+    font-style: italic;
+    font-size: 50px;
+    margin: 0;
+    padding: 0;
+}
+html{
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+.mtext{
+    color: rgb(255, 255, 255);
+    z-index: 1;
+    margin-top: 29vh;
+    margin-left: 15.5vh;
+    font-size: 5vh;
+    position: absolute;              
+    text-align: center;
+}
+.frame{
+    margin-left: 83vw;
+    width: 16%;
+    height: 50vw;
+    z-index: 2;
+}
+a{
+  color: white;  
+  text-decoration: none;
+}
+a:hover{
+    color: red;
+    transition: 0.3s;
+}
+#rectangle {
+	width: 56vh;
+	height: 100%;
+	background: rgb(0, 0, 0);
+    position: absolute;
+    margin-top: 0%;
+    margin-left: 5vh;
+} 
+.logo{
+    margin-top: 5vh;
+    width: 35vh;
+    height: 23vh;
+    position: absolute;
+    margin-left: 17vh;
+    z-index: 1;
+}
